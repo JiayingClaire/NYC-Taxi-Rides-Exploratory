@@ -10,8 +10,8 @@ This exploratory analysis aims to answer the questions like:
 * how many unusually long trips (of greater than 100 miles) in the dataset
 
 #### Data sources:
-Download the dataset from Cyrille Rossant on GitHub: https://github.com/ipython-books/minibook-2nd-data (https://github.com/ipython-books/minibook-2nd-data) 
+Dataset from Cyrille Rossant on GitHub: https://github.com/ipython-books/minibook-2nd-data
 
-NYC Taxi & Limousine Commission website (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) 
+NYC Taxi & Limousine Commission website: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml 
 
-NYC Gov data description website (http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
+NYC Gov data description website: http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
