@@ -4,7 +4,7 @@
 Data Provided by the New York City Taxi and Limousine Commission. Full dataset is 170 million taxi trips, 100GB of free space. Our subset is 0.5% of all trips, about 850,000 rides. 
 
 This exploratory analysis aims to answer the questions like:
-* Which vendor is it easiest to find a cab?
+* Which vendor is easier to find a cab from?
 * What is the most common trip distance?
 * What does the distribution of the fare total amount look like?
 * How many unusually long trips (of greater than 100 miles) in the dataset?
